@@ -1,0 +1,36 @@
+body {
+	text-align: center;
+	background-color: #9f9f9f;
+}
+table.itemtable {
+	margin: 20px auto;
+	font-family: verdana,arial,sans-serif;
+	font-size:11px;
+	color:#333333;
+	border-width: 1px;
+	border-color: #666666;
+	border-collapse: collapse;
+}
+table.itemtable th {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #666666;
+	background-color: #dedede;
+}
+table.itemtable td {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #666666;
+	background-color: #ffffff;
+}
+
+#content {
+background-color:#ffffff;
+width: 80%;
+margin: 50px auto;
+box-shadow: 5px 5px 6px 6px #2c2c2c;
+-moz-border-radius: 15px;
+border-radius: 15px;
+}
